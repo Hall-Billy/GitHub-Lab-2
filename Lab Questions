@@ -1,0 +1,19 @@
+Question 1
+In your child class __init__() method, what challenges did you need to overcome in order to be able to access the attributes and methods from the parent class?
+
+Understanding how to access attributes and methods from the parent class to implement the super() function
+
+Question 2
+How does inheritance help reduce code in a program?
+
+It allows for the definition of common attributes and methods in super class which could be reused
+
+Question 3
+How can controlling when an exception is thrown be leveraged in your program code while using a class or object?
+
+Controlling an exception could be beneficial in several different areas from clean code, validation, error handling, and more
+
+Question 4
+What is the name of the concept for using the same method name in different child classes and why is it important?
+
+Method overriding is important because it allows for the use of methods that are previously defined in its superclass
